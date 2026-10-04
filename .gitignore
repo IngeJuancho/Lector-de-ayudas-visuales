@@ -1,0 +1,16 @@
+# Secret configuration
+config.json
+
+# PyInstaller build outputs and executables
+build/
+dist/
+*.spec
+*.exe
+
+# Python bytecode and temporary files
+__pycache__/
+*.pyc
+
+# PDF test samples and JSON outputs
+*.pdf
+*.json
